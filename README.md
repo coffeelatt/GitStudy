@@ -1,1 +1,1 @@
-Fitst git project
+Fitst Git Project
