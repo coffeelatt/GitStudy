@@ -11,7 +11,11 @@
             ConsoleKey key;
             Console.ReadKey(true);
             Console.WriteLine("멈추는지확인");
+<<<<<<< HEAD
            ㅁ
+=======
+            모야 
+>>>>>>> e38d2148b8e025201a16498c31f1a4dead2f273f
         }
     }
 }
