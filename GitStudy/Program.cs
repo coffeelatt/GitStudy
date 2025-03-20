@@ -11,7 +11,7 @@
             ConsoleKey key;
             Console.ReadKey(true);
             Console.WriteLine("멈추는지확인");
-            
+            모야 
         }
     }
 }
